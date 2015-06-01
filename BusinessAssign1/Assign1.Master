@@ -22,6 +22,7 @@
 </head>
 <body>
     <h1>Game Calculator</h1>
+    <div>Please note all fields are required and no ties are allowed.</div>
     <form id="form1" runat="server">
     <div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
